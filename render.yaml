@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: depaul-ai
+    env: static
+    buildCommand: ""
+    staticPublishPath: "./"
